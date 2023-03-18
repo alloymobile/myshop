@@ -1,0 +1,11 @@
+\\Mac\Home\Documents\conestoga\myshop\myshop\myshop\bin\Debug\myshop.exe.config
+\\Mac\Home\Documents\conestoga\myshop\myshop\myshop\bin\Debug\myshop.exe
+\\Mac\Home\Documents\conestoga\myshop\myshop\myshop\bin\Debug\myshop.pdb
+\\Mac\Home\Documents\conestoga\myshop\myshop\myshop\obj\Debug\myshop.csproj.AssemblyReference.cache
+\\Mac\Home\Documents\conestoga\myshop\myshop\myshop\obj\Debug\myshop.csproj.SuggestedBindingRedirects.cache
+\\Mac\Home\Documents\conestoga\myshop\myshop\myshop\obj\Debug\myshop.Form1.resources
+\\Mac\Home\Documents\conestoga\myshop\myshop\myshop\obj\Debug\myshop.Properties.Resources.resources
+\\Mac\Home\Documents\conestoga\myshop\myshop\myshop\obj\Debug\myshop.csproj.GenerateResource.cache
+\\Mac\Home\Documents\conestoga\myshop\myshop\myshop\obj\Debug\myshop.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\conestoga\myshop\myshop\myshop\obj\Debug\myshop.exe
+\\Mac\Home\Documents\conestoga\myshop\myshop\myshop\obj\Debug\myshop.pdb
